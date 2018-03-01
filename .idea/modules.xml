@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-lambda-client/test-lambda-client.iml" filepath="$PROJECT_DIR$/test-lambda-client/test-lambda-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-lambda-server/test-lambda-server.iml" filepath="$PROJECT_DIR$/test-lambda-server/test-lambda-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-lambda-shared/test-lambda-shared.iml" filepath="$PROJECT_DIR$/test-lambda-shared/test-lambda-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlambda.iml" filepath="$PROJECT_DIR$/testlambda.iml" />
+    </modules>
+  </component>
+</project>

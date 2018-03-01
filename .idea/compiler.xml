@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-lambda-client" />
+        <module name="test-lambda-server" />
+        <module name="test-lambda-shared" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-lambda-client" target="1.8" />
+      <module name="test-lambda-server" target="1.8" />
+      <module name="test-lambda-shared" target="1.8" />
+      <module name="testlambda" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
